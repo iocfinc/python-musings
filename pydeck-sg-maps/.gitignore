@@ -133,3 +133,6 @@ dmypy.json
 
 # Python Configurations (For API Keys)
 config_vars.py
+
+# For this project
+.csv
